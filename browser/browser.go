@@ -11,8 +11,8 @@ package browser
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/target"
+	"github.com/ezoic/cdproto/cdp"
+	"github.com/ezoic/cdproto/target"
 )
 
 // GrantPermissionsParams grant specific permissions to the given origin and

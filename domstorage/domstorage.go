@@ -11,7 +11,7 @@ package domstorage
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/ezoic/cdproto/cdp"
 )
 
 // ClearParams [no description].

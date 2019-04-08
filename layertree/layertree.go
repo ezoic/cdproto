@@ -9,8 +9,8 @@ package layertree
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/dom"
+	"github.com/ezoic/cdproto/cdp"
+	"github.com/ezoic/cdproto/dom"
 	"github.com/mailru/easyjson"
 )
 

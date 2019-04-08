@@ -12,9 +12,9 @@ package overlay
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/dom"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/ezoic/cdproto/cdp"
+	"github.com/ezoic/cdproto/dom"
+	"github.com/ezoic/cdproto/runtime"
 	"github.com/mailru/easyjson"
 )
 

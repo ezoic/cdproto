@@ -4,10 +4,10 @@ package page
 
 import (
 	json "encoding/json"
-	cdp "github.com/chromedp/cdproto/cdp"
-	debugger "github.com/chromedp/cdproto/debugger"
-	dom "github.com/chromedp/cdproto/dom"
-	runtime "github.com/chromedp/cdproto/runtime"
+	cdp "github.com/ezoic/cdproto/cdp"
+	debugger "github.com/ezoic/cdproto/debugger"
+	dom "github.com/ezoic/cdproto/dom"
+	runtime "github.com/ezoic/cdproto/runtime"
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"

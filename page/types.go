@@ -5,8 +5,8 @@ package page
 import (
 	"errors"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/network"
+	"github.com/ezoic/cdproto/cdp"
+	"github.com/ezoic/cdproto/network"
 	"github.com/mailru/easyjson"
 	"github.com/mailru/easyjson/jlexer"
 	"github.com/mailru/easyjson/jwriter"
